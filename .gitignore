@@ -1,0 +1,7 @@
+build/
+dist/
+installer/
+timelapses/
+__pycache__/
+*.pyc
+.venv/
